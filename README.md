@@ -19,4 +19,5 @@ This app uses spatial and linear interpolation algorithms to process the input d
 ![Deviations](static/deviations_sample.png)
 
 
-P.S.: This app was developed as part of the Capstone project for the Functional Programming in Scala Specialization. The actual Scala code is not available in this repo.
+
+P.S.: This app was developed as part of the Capstone project for the Functional Programming in Scala Specialization on Coursera. In order not to violate the Coursera's Honor Code, the actual Scala code is not available in this repo.
